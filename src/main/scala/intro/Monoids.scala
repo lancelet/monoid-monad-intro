@@ -28,7 +28,7 @@ object Monoids extends App {
    *
    * A Monoid:
    *   - is a semigroup
-   *   - with an identity (/ "empty") element, I: I . a = a . I
+   *   - with an identity (/ "empty") element, I: I . a = a . I = a
    *
    * So there's a heirarchy:
    *   - Magma:     has a binary operation
